@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Pedraty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedraty&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedraty&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=Pedraty&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedraty&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
 
@@ -29,6 +29,5 @@
   <a href="www.linkedin.com/in/pedro-fonseca-teixeira" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="http://wa.me/5511948754172" target:"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
-    ![Snake animation](https://github.com/Pedraty/Pedraty/blob/output/github-contribution-grid-snake.svg)
     
 </div>
