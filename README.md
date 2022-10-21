@@ -2,7 +2,7 @@
 
 - 🔰  Front-End 
 - 🌠 Estudando API's
-- ✨ Tenho bastante interessem em Design
+- ✨ Tenho bastante interesse em Design
 - 🦜 Fun fact: Pedraty é originado do meu usuário de Transformice
 
 <div align="center">
