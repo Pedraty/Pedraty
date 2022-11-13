@@ -26,7 +26,7 @@
   
 <div>
   <a href="mailto:pedro.henrique.f.t.silva" target:"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[www.linkedin.com/in/pedro-fonseca-teixeira](https://www.linkedin.com/in/pedro-henrique-fonseca-teixeira-da-silva-356a98237/)" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-teixeira-da-silva-356a98237/" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="http://wa.me/5511948754172" target:"_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   
     
